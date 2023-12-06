@@ -1,0 +1,16 @@
+{"@t":"2023-10-18T13:53:04.7027278","@mt":"Ошибка метода Method_Setting_PUTSetting В Контроллере SettingNewMes Error converting value 187 to type 'System.Collections.Generic.List`1[ApiItelma_Universal.DBContext.Preview.SettingNewMes.CheckStepsUfk3]'. Path '', line 1, position 3.","@l":"Error"}
+{"@t":"2023-10-18T13:54:15.0587146","@mt":"Ошибка метода Method_Setting_PUTSetting В Контроллере SettingNewMes Error converting value 187 to type 'System.Collections.Generic.List`1[ApiItelma_Universal.DBContext.Preview.SettingNewMes.CheckStepsUfk1]'. Path '', line 1, position 3.","@l":"Error"}
+{"@t":"2023-10-18T13:55:44.4851841","@mt":"Ошибка метода Method_Setting_PUTSetting В Контроллере SettingNewMes Error converting value 187 to type 'System.Collections.Generic.List`1[ApiItelma_Universal.DBContext.Preview.SettingNewMes.CheckStepsUfk1]'. Path '', line 1, position 3.","@l":"Error"}
+{"@t":"2023-10-18T13:57:07.2574710","@mt":"Method_Setting_PUTSetting успешно 187"}
+{"@t":"2023-10-18T14:28:58.6193546","@mt":"Ошибка метода Method_CheckPointSettingsUFK1_PUT_WhereIdProduct В Контроллере SettingNewMes An error occurred while saving the entity changes. See the inner exception for details.","@l":"Error"}
+{"@t":"2023-10-18T14:45:26.7174085","@mt":"Method_CheckPointSettingsUFK3_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T14:45:48.9353013","@mt":"Method_CheckPointSettingsUFK3_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T14:48:38.1559681","@mt":"Method_Settings_delete_CheckStepsUFK1успешно шаг и 187 Удалено"}
+{"@t":"2023-10-18T14:50:19.2371801","@mt":"Method_CheckPointSettingsUFK1_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T14:51:01.9546339","@mt":"Method_CheckPointSettingsUFK1_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T14:51:57.1812649","@mt":"Method_CheckPointSettingsUFK1_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T14:58:49.8312331","@mt":"Method_CheckPointSettingsUFK3_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T15:01:57.5101233","@mt":"Method_CheckPointSettingsUFK3_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T15:02:10.9607579","@mt":"Method_CheckPointSettingsUFK1_PUT_WhereIdProduct успешно 187"}
+{"@t":"2023-10-18T15:02:15.6236430","@mt":"Method_Settings_delete_CheckStepsUFK1успешно шаг и 187 Удалено"}
+{"@t":"2023-10-18T15:02:34.6864348","@mt":"Method_CheckPointSettingsUFK3_PUT_WhereIdProduct успешно 187"}

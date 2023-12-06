@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\APIsite</_PublishTargetUrl>
+    <History>True|2023-10-23T05:48:18.9441368Z;True|2023-10-23T08:46:20.2585531+03:00;True|2023-10-02T10:02:42.0886104+03:00;True|2023-08-18T12:43:12.8197053+03:00;True|2023-08-08T13:45:48.0888376+03:00;True|2023-08-08T12:00:28.2905914+03:00;True|2023-08-03T10:00:07.9751836+03:00;True|2023-08-03T09:38:44.0862181+03:00;True|2023-08-02T12:52:52.3027754+03:00;False|2023-08-02T12:51:53.4107603+03:00;True|2023-08-02T12:38:43.4179325+03:00;True|2023-07-12T11:36:18.8979512+03:00;True|2023-07-12T10:59:26.5413176+03:00;True|2023-07-12T10:52:45.5979525+03:00;True|2023-07-12T10:39:50.3178428+03:00;True|2023-07-12T08:51:13.2280212+03:00;True|2023-07-11T16:54:12.6318183+03:00;True|2023-07-11T16:43:04.2540713+03:00;True|2023-07-11T16:27:23.2995907+03:00;True|2023-07-11T09:06:24.0184217+03:00;True|2023-07-10T16:41:20.5698934+03:00;True|2023-07-10T16:13:46.5986951+03:00;True|2023-07-07T10:02:35.3700708+03:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.CheckPoints.CheckPointsContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.CheckPoint_AutoSend.CheckPointAutoSendContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.CheckPoint_Metra.CheckPointMetraContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.CheckPoint_Packaging.CheckPointPackagingContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.Permissions.PermissionsContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.ProductionLines.ProductionLinesContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.Products.ProductsContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.SettingSenderMan.SettingSenderManContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.DBContext.Traceability.TraceabilityContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="ApiItelma_Universal.KTLinesDBContexts.FirstLineWatchDog.FirstLineWatchDogContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=userstoredb%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

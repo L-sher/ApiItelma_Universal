@@ -1,0 +1,1270 @@
+{"@t":"2023-05-24T11:20:47.6697564","@mt":"API Работает"}
+{"@t":"2023-05-24T11:20:48.8906348","@mt":"Ошибка подключения к камере по ip  Could not connect within the specified time.","@l":"Error"}
+{"@t":"2023-05-24T11:37:09.1599452","@mt":"API Работает"}
+{"@t":"2023-05-24T11:44:32.2432900","@mt":"API Работает"}
+{"@t":"2023-05-24T11:45:28.5922516","@mt":"API Работает"}
+{"@t":"2023-05-24T11:46:27.9352080","@mt":"API Работает"}
+{"@t":"2023-05-24T11:47:03.6830154","@mt":"API Работает"}
+{"@t":"2023-05-24T15:02:33.6842951","@mt":"API Работает"}
+{"@t":"2023-05-24T15:03:10.7199208","@mt":"API Работает"}
+{"@t":"2023-05-24T15:17:08.7245444","@mt":"API Работает"}
+{"@t":"2023-05-24T15:17:35.9808243","@mt":"API Работает"}
+{"@t":"2023-05-24T15:21:56.7342481","@mt":"API Работает"}
+{"@t":"2023-05-24T15:22:34.4128242","@mt":"API Работает"}
+{"@t":"2023-05-24T15:23:23.5886615","@mt":"API Работает"}
+{"@t":"2023-05-24T15:25:04.7705574","@mt":"API Работает"}
+{"@t":"2023-05-24T15:33:31.6639832","@mt":"API Работает"}
+{"@t":"2023-05-24T15:34:02.4277615","@mt":"API Работает"}
+{"@t":"2023-05-24T15:36:56.4350514","@mt":"API Работает"}
+{"@t":"2023-05-24T15:38:00.4224913","@mt":"API Работает"}
+{"@t":"2023-05-24T15:40:47.7216618","@mt":"API Работает"}
+{"@t":"2023-05-26T10:55:16.9112586","@mt":"API Работает"}
+{"@t":"2023-05-26T11:12:35.9563635","@mt":"API Работает"}
+{"@t":"2023-05-26T13:37:46.2528583","@mt":"API Работает"}
+{"@t":"2023-05-26T14:37:12.1660012","@mt":"API Работает"}
+{"@t":"2023-05-26T14:58:36.6620465","@mt":"API Работает"}
+{"@t":"2023-05-29T10:57:37.6915550","@mt":"API Работает"}
+{"@t":"2023-05-29T10:59:49.6382772","@mt":"API Работает"}
+{"@t":"2023-05-29T11:01:22.4084869","@mt":"API Работает"}
+{"@t":"2023-05-29T11:24:13.1498476","@mt":"API Работает"}
+{"@t":"2023-05-29T13:31:22.4208561","@mt":"API Работает"}
+{"@t":"2023-05-29T15:36:57.3995588","@mt":"Method_ProductTags_Post выполнен успешно teryerue"}
+{"@t":"2023-05-29T16:18:28.5389129","@mt":"API Работает"}
+{"@t":"2023-05-29T16:18:39.0350056","@mt":"API Работает"}
+{"@t":"2023-05-29T16:18:50.9129137","@mt":"API Работает"}
+{"@t":"2023-05-29T16:19:39.6485757","@mt":"API Работает"}
+{"@t":"2023-05-29T16:37:43.9382082","@mt":"API Работает"}
+{"@t":"2023-05-29T16:47:38.6337075","@mt":"API Работает"}
+{"@t":"2023-05-29T16:52:31.2326389","@mt":"API Работает"}
+{"@t":"2023-05-29T16:52:53.5481647","@mt":"API Работает"}
+{"@t":"2023-05-30T10:32:07.9107992","@mt":"API Работает"}
+{"@t":"2023-05-30T11:08:56.1530570","@mt":"API Работает"}
+{"@t":"2023-05-30T12:50:47.7822106","@mt":"API Работает"}
+{"@t":"2023-05-30T12:52:21.7897778","@mt":"API Работает"}
+{"@t":"2023-05-30T12:54:51.1216830","@mt":"API Работает"}
+{"@t":"2023-05-30T12:56:53.2354274","@mt":"API Работает"}
+{"@t":"2023-05-30T13:19:20.0324667","@mt":"API Работает"}
+{"@t":"2023-05-30T13:24:25.9650601","@mt":"API Работает"}
+{"@t":"2023-05-30T13:30:07.9554486","@mt":"API Работает"}
+{"@t":"2023-05-30T13:36:16.0356627","@mt":"API Работает"}
+{"@t":"2023-05-30T16:26:35.9769421","@mt":"API Работает"}
+{"@t":"2023-05-30T16:45:09.9291908","@mt":"API Работает"}
+{"@t":"2023-05-30T16:45:40.5190828","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-30T16:46:37.8969977","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-30T16:48:03.3883073","@mt":"API Работает"}
+{"@t":"2023-05-30T16:48:36.1112538","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-30T16:51:21.7083993","@mt":"API Работает"}
+{"@t":"2023-05-30T16:52:03.7936998","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-31T08:44:12.3911303","@mt":"API Работает"}
+{"@t":"2023-05-31T08:50:25.6932592","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-31T08:51:29.0399829","@mt":"API Работает"}
+{"@t":"2023-05-31T08:52:57.4935277","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-31T08:53:15.3963107","@mt":"API Работает"}
+{"@t":"2023-05-31T08:53:29.8333875","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-05-31T09:00:32.7779667","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsObject reference not set to an instance of an object.","@l":"Error"}
+{"@t":"2023-05-31T09:01:24.0951257","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsObject reference not set to an instance of an object.","@l":"Error"}
+{"@t":"2023-05-31T12:49:57.8009199","@mt":"API Работает"}
+{"@t":"2023-05-31T12:55:04.1517339","@mt":"API Работает"}
+{"@t":"2023-05-31T14:56:26.2251549","@mt":"API Работает"}
+{"@t":"2023-05-31T15:02:28.9419566","@mt":"API Работает"}
+{"@t":"2023-05-31T15:04:34.1132799","@mt":"API Работает"}
+{"@t":"2023-05-31T15:09:58.2407832","@mt":"API Работает"}
+{"@t":"2023-05-31T15:11:03.4592574","@mt":"API Работает"}
+{"@t":"2023-05-31T15:12:32.3777995","@mt":"API Работает"}
+{"@t":"2023-05-31T15:58:08.6588100","@mt":"API Работает"}
+{"@t":"2023-05-31T16:05:27.6872011","@mt":"API Работает"}
+{"@t":"2023-06-01T10:29:29.3961087","@mt":"API Работает"}
+{"@t":"2023-06-02T09:24:28.1779482","@mt":"API Работает"}
+{"@t":"2023-06-02T09:31:11.4735411","@mt":"API Работает"}
+{"@t":"2023-06-02T09:56:06.3697461","@mt":"API Работает"}
+{"@t":"2023-06-02T09:57:54.1858653","@mt":"API Работает"}
+{"@t":"2023-06-02T10:02:07.4156048","@mt":"API Работает"}
+{"@t":"2023-06-02T10:02:47.1314891","@mt":"API Работает"}
+{"@t":"2023-07-07T08:54:38.9593792","@mt":"API Работает"}
+{"@t":"2023-07-07T09:02:58.2220697","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-07T09:50:23.4089826","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-07T09:57:16.0499264","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T15:45:38.0537350","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T15:46:42.2528280","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T15:55:45.5814519","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T15:56:01.1481948","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:08:15.4816259","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:09:02.5034648","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:09:38.6568531","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:11:07.8785158","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:12:26.4895199","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:12:37.6701204","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:16:53.8917190","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:39:22.5707219","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:39:35.3171101","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:39:46.6123165","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-10T16:40:12.9553609","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:00:10.0359565","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:00:21.0309180","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:04:55.0460583","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:05:51.2528978","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:37:59.0056285","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T09:38:14.3064406","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T11:18:07.4511027","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T11:19:35.7515263","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:20:37.8874491","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:21:10.7801529","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:25:07.4645947","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:26:29.8140809","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:32:31.5844942","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:42:23.5944828","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:42:38.3073881","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-11T16:53:29.2575520","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:30:27.5206969","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:30:45.7274107","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:31:21.2021060","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:33:46.5116251","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:42:01.8541520","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:42:28.7391935","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:50:20.6359625","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T08:50:32.4881744","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T09:34:20.4164884","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:28:20.8970040","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:29:04.0647558","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:35:47.3268659","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:36:57.6855194","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:37:18.6388071","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:38:54.3866635","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:39:16.2498675","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:52:20.5748740","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:52:29.3071752","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:55:12.8743509","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:55:20.4576295","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:55:47.1433065","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:56:17.8786080","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:56:44.6617237","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T10:57:33.8784829","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-12T11:34:10.6147263","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-28T16:14:12.5170298","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-28T16:14:27.0702076","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-28T16:14:58.3799363","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:08:01.8026389","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:09:55.8042465","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:10:24.1719354","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:14:16.3771270","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:18:03.2159876","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:18:31.0100827","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:40:37.1341591","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:40:57.0149082","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:41:17.3747408","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:41:35.1974128","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:41:50.8881605","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:43:03.6790549","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:43:25.1502124","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:46:04.4613695","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:46:27.3810676","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:46:49.7979105","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:49:03.1830776","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T09:49:14.7739874","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T11:52:34.2952806","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:16:56.5569047","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:18:14.0178101","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:34:07.7841615","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:34:41.5443555","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:35:46.0339208","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:36:27.2965009","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:52:56.9361096","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:58:00.5479551","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T13:58:34.4168055","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T13:59:32.2441833","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:17:54.5341436","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:21:53.7177143","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:27:48.6566119","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T14:29:42.6930348","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T14:30:03.4323775","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:30:53.6651093","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:46:35.5646248","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T14:47:00.0638157","@mt":"Method_LineSettings_Put выполнен успешно First"}
+{"@t":"2023-07-31T14:47:45.1849485","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T15:21:32.6643886","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T15:21:52.5613262","@mt":"Method_LineSettings_Put выполнен успешно Первая линия"}
+{"@t":"2023-07-31T15:26:00.3407435","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T15:30:44.6631818","@mt":"Method_LineSettings_Put выполнен успешно Первая линия"}
+{"@t":"2023-07-31T16:03:11.9753430","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T16:08:20.8355336","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T16:30:49.9699256","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-07-31T16:31:24.5338870","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T08:41:58.3441895","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T08:49:07.9307952","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T11:36:17.1708439","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T11:57:21.1738751","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:00:19.3188223","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:00:49.2407782","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:23:18.9654454","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:24:47.8267512","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:26:39.0465368","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:27:07.2912201","@mt":"Ошибка выполнения метода Method_LineSettings_GetByLineName В Контроллере ProductionLines A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - Время ожидания операции истекло.)","@l":"Error"}
+{"@t":"2023-08-01T12:32:23.8570413","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:37:13.9094826","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:39:03.1313070","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:42:10.7538223","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T12:42:48.4869755","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T13:23:19.6285596","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T13:24:05.4068134","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T13:27:24.1211742","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T14:03:50.9100515","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T14:06:46.1260192","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T14:13:42.6051326","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:09:12.1355698","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:11:13.7609330","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:18:30.5227536","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:18:34.3669756","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:18:38.6083715","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:19:00.6157727","@mt":"Ошибка выполнения метода Method_EmployeesList_GetByEmployeeName В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:19:01.6013907","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-08-01T15:19:16.6056973","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:19:52.0177606","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:19:56.4297206","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:23:17.1199530","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:23:36.5468776","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:27:36.8655969","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:28:50.4980442","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:32:40.0315412","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:34:13.4352619","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-01T15:34:24.9063288","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions An attempt was made to use the model while it was being created. A DbContext instance cannot be used inside 'OnModelCreating' in any way that makes use of the model that is being created.","@l":"Error"}
+{"@t":"2023-08-01T15:35:13.3059486","@mt":"Ошибка выполнения метода Method_EmployeesList_GetByEmployeeName В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:35:42.7398847","@mt":"Ошибка выполнения метода Method_WebSitePagesList_GetByWebSitePageId В Контроллере Permissions A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-08-01T15:37:32.7987469","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-02T11:16:41.4334349","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-02T11:19:39.2876564","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-02T12:32:44.9130397","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-02T12:33:47.2104635","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-02T12:35:39.5412979","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-02T12:36:04.2662564","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-03T09:22:55.1725272","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:23:18.0306422","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-03T09:23:28.5415308","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-03T09:33:32.4085432","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:34:06.8670822","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:43:48.6931306","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:44:36.7918885","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:47:02.0702180","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:47:14.8988545","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-08-03T09:48:58.6995230","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:49:47.1878886","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-03T09:51:52.0567542","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-03T09:52:11.2909945","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-03T09:55:07.0332312","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-08-08T11:59:31.3715126","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-08T12:35:45.8959457","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-08T13:32:41.7759773","@mt":"Method_LineSettings_Put выполнен успешно Линия №2"}
+{"@t":"2023-08-08T13:33:17.8506462","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-08-08T13:46:32.5877403","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T11:26:06.1495994","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:39:16.1020583","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:40:35.0461681","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:44:55.1635772","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:45:08.2699356","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:46:01.0991884","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:46:38.5613920","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:47:33.9766108","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:48:05.2057782","@mt":"API Работает http://192.168.96.139:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:48:48.0120185","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:51:13.3417045","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T12:59:53.5883517","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T14:04:49.5070993","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T14:11:08.3643253","@mt":"Ошибка выполнения метода Method_CheckPointData_GetByBarCode В Контроллере метры Error converting value 1 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 1.","@l":"Error"}
+{"@t":"2023-08-18T14:43:41.1074328","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T14:46:57.0291970","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 1 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 1.","@l":"Error"}
+{"@t":"2023-08-18T14:54:39.1333931","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 1 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 1.","@l":"Error"}
+{"@t":"2023-08-18T14:56:20.5874063","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 231 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 3.","@l":"Error"}
+{"@t":"2023-08-18T14:57:36.8493932","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T15:01:06.9946777","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 23124 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 5.","@l":"Error"}
+{"@t":"2023-08-18T15:03:08.7475050","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T15:03:45.5640729","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 12324 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 5.","@l":"Error"}
+{"@t":"2023-08-18T15:12:20.4633689","@mt":"Ошибка выполнения метода В Контроллере метры Error converting value 1213 to type 'ApiItelma_Universal.DBContext.Preview.SettingNewMes.Setting'. Path '', line 1, position 4.","@l":"Error"}
+{"@t":"2023-08-18T15:14:59.8770220","@mt":"Ошибка выполнения метода Method_CheckPointDataUFK1_Post В Контроллере метрыError converting value 323124 to type 'ApiItelma_Universal.DBContext.CheckPoint_Metra.CheckPointDataUfk1'. Path '', line 1, position 6.","@l":"Error"}
+{"@t":"2023-08-18T15:28:35.1034815","@mt":"метод был использован"}
+{"@t":"2023-08-18T15:44:54.1075191","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T15:50:45.2722465","@mt":"Method_LineSettings_Put выполнен успешно Линия №23"}
+{"@t":"2023-08-18T15:51:11.7614722","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T15:51:42.5013071","@mt":"Ошибка выполнения метода В Контроллере метры The instance of entity type 'CheckStepsUfk1' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","@l":"Error"}
+{"@t":"2023-08-18T15:59:37.0888087","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T16:52:28.1150661","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T16:52:52.2219766","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T16:53:38.0669772","@mt":"Ошибка выполнения метода В Контроллере метры The instance of entity type 'CheckStepsUfk1' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.","@l":"Error"}
+{"@t":"2023-08-18T16:54:20.5583173","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T16:54:59.1073593","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T16:55:44.6233961","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-18T16:56:02.8871675","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T16:56:37.8717317","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T16:56:52.4108701","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-18T16:57:14.0272326","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T09:42:12.2877718","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T09:50:58.3051021","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T09:57:53.9186722","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T09:58:20.7007291","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:29:34.2285412","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:30:16.9547743","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:33:54.6935269","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:34:33.4810817","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:37:00.9713231","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:37:25.6954417","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:38:41.6063482","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:39:27.8600129","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:39:55.0859696","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:46:18.2603633","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:46:42.6196894","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:47:18.6368694","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:47:39.9775929","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T10:55:23.3353287","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T10:55:36.9400143","@mt":"Method_Settings_delete_CheckStepsUFK3 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T11:00:01.3396630","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T11:07:31.9421554","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:08:28.6150840","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:16:57.2492145","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:19:58.3668708","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T11:26:18.8370915","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:26:36.0136961","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T11:29:33.8643972","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:42:19.7317704","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:51:08.4931066","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:52:33.3657337","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 1 Удалено"}
+{"@t":"2023-08-21T11:55:21.4643754","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:57:15.2664835","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T11:59:18.8728778","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T11:59:43.1397863","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T12:21:31.7093915","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T12:21:56.2908074","@mt":"Method_Settings_delete_CheckStepsUFK3 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T12:22:25.0493712","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T12:22:37.7607501","@mt":"Method_Settings_delete_CheckStepsUFK3 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T12:23:14.2696879","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T12:23:23.1827352","@mt":"Method_Settings_delete_CheckStepsUFK3 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T12:23:47.9065189","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T12:24:02.1671199","@mt":"Method_Settings_delete_CheckStepsUFK3 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T12:51:47.8288921","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T12:53:42.7899873","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T12:53:59.5024463","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T12:54:16.9929728","@mt":"Method_Settings_delete_CheckStepsUFK1 выполнен успешно шаг и 10 Удалено"}
+{"@t":"2023-08-21T13:10:57.1894481","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T13:11:24.9604918","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T13:12:00.8414490","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T13:12:14.6213385","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T13:15:39.3238598","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T13:15:55.8750129","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T13:16:27.7514317","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:18:58.9436540","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T14:19:31.3790085","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:19:36.8002510","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:19:47.5989532","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:19:58.6977868","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:20:02.9457093","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:20:13.2213435","@mt":"Method_CheckPointData_Post выполнен успешно 10"}
+{"@t":"2023-08-21T14:21:05.0585562","@mt":"Ошибка выполнения метода В Контроллере SettingNewMes Object reference not set to an instance of an object.","@l":"Error"}
+{"@t":"2023-08-21T15:15:36.3155231","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:16:15.5376879","@mt":"Method_Setting_PUTSetting выполнен успешно 10"}
+{"@t":"2023-08-21T15:18:15.7253080","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:34:27.5311764","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:36:16.8536258","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:47:58.2264979","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:50:13.5157322","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:52:40.7514823","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T15:55:18.0780984","@mt":"Method_Setting_PUTSetting выполнен успешно 10"}
+{"@t":"2023-08-21T16:14:40.8473928","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T16:15:11.5244385","@mt":"Method_Setting_POSTSetting выполнен успешно 102"}
+{"@t":"2023-08-21T16:17:40.0019157","@mt":"Method_Setting_POSTSetting выполнен успешно 102"}
+{"@t":"2023-08-21T16:18:38.4124803","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T16:19:08.4723057","@mt":"Method_Setting_POSTSetting выполнен успешно 241251"}
+{"@t":"2023-08-21T16:31:01.1597363","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T16:32:43.0859909","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-21T16:33:20.1355610","@mt":"Method_Setting_POSTSetting выполнен успешно 241251"}
+{"@t":"2023-08-22T14:57:00.8625440","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-22T14:58:05.4903822","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-22T15:43:17.0938025","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-23T16:57:11.3629910","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-24T15:34:53.9415749","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T10:45:58.8580175","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T10:54:00.1019681","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T12:22:04.3654184","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T12:22:18.2907281","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-08-28T12:22:21.7303038","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-08-28T12:53:17.8579890","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T13:30:42.1862593","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T13:32:16.9903030","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T13:33:33.4223692","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T13:36:34.0465929","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-28T16:35:08.5730334","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T12:50:57.3993839","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T12:51:36.5030021","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T12:52:57.4264883","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T13:32:55.8905288","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T13:33:45.0915441","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T13:34:00.0206342","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T14:56:06.7944883","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T14:56:54.8501962","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T14:57:35.3502950","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T15:02:20.6481057","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T15:05:28.2901861","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T16:16:40.9825998","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T16:21:56.9672850","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-29T16:51:25.4443739","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-30T14:24:48.2257643","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-30T14:51:47.3182187","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-31T11:06:57.8833191","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-31T15:36:08.6956676","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-31T15:45:56.6694845","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-08-31T16:54:23.9504089","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-01T08:39:23.9949223","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-01T11:35:25.3427585","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-01T12:36:26.0301233","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-01T14:53:05.4619309","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-05T10:34:31.8376409","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-05T14:59:52.5235494","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T12:27:15.3536777","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T12:37:29.5232060","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T12:56:26.6363877","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T12:58:55.7214896","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T13:01:20.2937070","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:10:27.7349844","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:23:31.6722840","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:23:52.8836740","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:25:57.2096222","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:29:55.3530377","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:45:45.9193210","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:50:59.9679533","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:55:13.6443590","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T15:56:25.4149370","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-06T16:48:50.4796339","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-07T08:33:48.4329101","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T09:45:54.8112807","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T09:50:10.9252743","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T10:34:35.4789346","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T10:48:54.3874498","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T10:50:50.1177408","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T10:59:28.6969575","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T11:00:36.0035405","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T11:03:31.0113620","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-12T11:54:29.7884225","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-19T09:36:09.8347003","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-19T14:24:12.1755935","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-20T09:18:43.8478581","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-20T14:44:41.7577757","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-20T15:47:14.0622249","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-21T09:00:19.7779570","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-21T10:27:44.1588686","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-21T12:52:21.9514072","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-21T15:06:52.1872359","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-21T15:40:01.1309640","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T10:01:40.2588210","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T11:48:56.8214401","@mt":"Ошибка выполнения метода Method_LineSettings_Post В Контроллере LineSettingsUnable to track an instance of type 'ProcessesAndSetting' because it does not have a primary key. Only entity types with a primary key may be tracked.","@l":"Error"}
+{"@t":"2023-09-22T11:51:41.9216843","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T11:52:34.8561081","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GazMTS"}
+{"@t":"2023-09-22T15:23:25.1777455","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-22T15:25:59.0939052","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T15:33:42.7760668","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T15:43:39.4953222","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T15:46:55.9656924","@mt":"Ошибка выполнения метода Method_ProcessesAndSettings_Put В Контроллере ProcessesAndSettingsUnexpected character encountered while parsing value: g. Path '', line 0, position 0.","@l":"Error"}
+{"@t":"2023-09-22T15:50:54.1628832","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T15:51:46.1872751","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsUnexpected character encountered while parsing value: w. Path '', line 0, position 0.","@l":"Error"}
+{"@t":"2023-09-22T16:02:18.2266986","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-22T16:04:58.9464914","@mt":"Ошибка выполнения метода Method_ProcessesAndSettings_Put В Контроллере ProcessesAndSettingsError converting value \"sda\" to type 'ApiItelma_Universal.DBContext.ProductionLines.ProcessesAndSetting'. Path '', line 1, position 5.","@l":"Error"}
+{"@t":"2023-09-25T09:18:20.7173401","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно Process2crafter"}
+{"@t":"2023-09-25T09:18:42.0076428","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T09:19:43.9805411","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно NewProcess3valdai"}
+{"@t":"2023-09-25T09:24:49.0507185","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно 24Largus"}
+{"@t":"2023-09-25T09:25:46.3109165","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно yuo"}
+{"@t":"2023-09-25T09:28:12.6672510","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно dasf"}
+{"@t":"2023-09-25T09:36:00.3714772","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T09:36:59.2919572","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно rqwr15"}
+{"@t":"2023-09-25T09:44:16.1984635","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно valdai"}
+{"@t":"2023-09-25T09:44:17.6670844","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsAn error occurred while saving the entity changes. See the inner exception for details.","@l":"Error"}
+{"@t":"2023-09-25T09:46:39.8141462","@mt":"Ошибка выполнения метода Method_LineSettings_Post В Контроллере LineSettingsAn error occurred while saving the entity changes. See the inner exception for details.","@l":"Error"}
+{"@t":"2023-09-25T09:47:58.0016293","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T09:48:32.8760989","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно hjtj5"}
+{"@t":"2023-09-25T09:49:31.7849302","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsAn error occurred while saving the entity changes. See the inner exception for details.","@l":"Error"}
+{"@t":"2023-09-25T09:49:44.4885855","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно uoyuo"}
+{"@t":"2023-09-25T09:49:51.2579167","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно uoyuo"}
+{"@t":"2023-09-25T10:29:36.7425337","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно fgjrtj5574"}
+{"@t":"2023-09-25T10:29:44.1013349","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно fgjrtj5574"}
+{"@t":"2023-09-25T10:34:54.1815907","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно rdfher4446"}
+{"@t":"2023-09-25T10:34:54.1952076","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно rdfher4446"}
+{"@t":"2023-09-25T10:38:07.8946231","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно fhdfh3h434"}
+{"@t":"2023-09-25T10:38:07.9073891","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно fhdfh3h434"}
+{"@t":"2023-09-25T10:41:05.3269562","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно true3"}
+{"@t":"2023-09-25T10:41:05.3363806","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно true3"}
+{"@t":"2023-09-25T10:41:38.0163406","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно tryu14"}
+{"@t":"2023-09-25T10:41:38.2971269","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно tryu14"}
+{"@t":"2023-09-25T10:57:30.5936332","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T11:14:00.7654505","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T11:15:45.5035208","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T11:16:24.4546171","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T11:17:23.2993037","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T11:17:49.7472195","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T11:23:57.6166176","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно VestaTrue!"}
+{"@t":"2023-09-25T11:23:57.6360338","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaTrue!"}
+{"@t":"2023-09-25T11:27:46.7411075","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно asdqwfqgw"}
+{"@t":"2023-09-25T11:40:33.3270288","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно valdai"}
+{"@t":"2023-09-25T11:40:33.3433856","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно valdai"}
+{"@t":"2023-09-25T12:50:40.3649864","@mt":"Method_ProcessesAndSettings_delete выполнен успешно VestaTrue! 206 Удалено"}
+{"@t":"2023-09-25T12:51:23.0620443","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T13:18:28.8690300","@mt":"Method_LineSettings_Post выполнен успешно 45"}
+{"@t":"2023-09-25T13:18:45.6411660","@mt":"Method_LineSettings_Put выполнен успешно 45"}
+{"@t":"2023-09-25T14:36:36.9242143","@mt":"Method_LineSettings_Post выполнен успешно 33"}
+{"@t":"2023-09-25T14:46:04.0004051","@mt":"Method_LineSettings_Put выполнен успешно 33"}
+{"@t":"2023-09-25T14:46:04.0244164","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно tryu14"}
+{"@t":"2023-09-25T14:48:23.2474693","@mt":"Method_LineSettings_Put выполнен успешно 1"}
+{"@t":"2023-09-25T14:48:33.3904774","@mt":"Method_LineSettings_Put выполнен успешно 1"}
+{"@t":"2023-09-25T14:49:56.7633512","@mt":"Method_ProcessesAndSettings_delete выполнен успешно valdai 205 Удалено"}
+{"@t":"2023-09-25T14:50:20.6171023","@mt":"Method_LineSettings_Put выполнен успешно 33"}
+{"@t":"2023-09-25T14:50:20.6258994","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно valdai"}
+{"@t":"2023-09-25T14:51:45.6637275","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T14:55:18.1646884","@mt":"Method_ProcessesAndSettings_delete выполнен успешно valdai 206 Удалено"}
+{"@t":"2023-09-25T14:55:32.6840482","@mt":"Method_ProcessesAndSettings_delete выполнен успешно valdai 291 Удалено"}
+{"@t":"2023-09-25T14:59:18.8601266","@mt":"Method_ProcessesAndSettings_delete выполнен успешно tryu14 173 Удалено"}
+{"@t":"2023-09-25T14:59:49.8206203","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно VestaNew!"}
+{"@t":"2023-09-25T14:59:49.8500356","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaNew!"}
+{"@t":"2023-09-25T15:00:06.8178027","@mt":"Method_LineSettings_delete выполнен успешно 5 45 Удалено"}
+{"@t":"2023-09-25T15:00:11.6013386","@mt":"Method_LineSettings_delete выполнен успешно 6 33 Удалено"}
+{"@t":"2023-09-25T15:00:27.0336988","@mt":"Method_LineSettings_delete выполнен успешно 1 1 Удалено"}
+{"@t":"2023-09-25T15:00:34.2366294","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-25T15:58:21.3315430","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T16:03:48.7511647","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-25T16:31:34.4015948","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-26T09:02:35.6804268","@mt":"Method_ProcessesAndSettings_delete выполнен успешно VestaNew! 10 Удалено"}
+{"@t":"2023-09-26T09:10:54.4397265","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GazMTS"}
+{"@t":"2023-09-26T09:10:54.4725407","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMTS"}
+{"@t":"2023-09-26T09:11:19.2462136","@mt":"Method_ProcessesAndSettings_delete выполнен успешно GazMTS 193 Удалено"}
+{"@t":"2023-09-26T09:12:12.8914277","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:12:12.9312779","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:19:28.9343044","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-26T09:19:28.9509169","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:26:19.1312950","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-26T09:26:19.1508138","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:26:29.7880867","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-26T09:26:29.7929279","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:27:00.2296486","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-26T09:27:00.2406388","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-26T09:29:26.4250988","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-27T11:56:22.6371469","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T11:58:52.6339217","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T12:25:31.9058795","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T12:28:09.7081750","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T13:08:57.6421080","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T13:43:25.8985184","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T13:44:28.3680990","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-27T13:44:28.4899376","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-27T13:44:39.1260786","@mt":"Method_ProcessesAndSettings_delete выполнен успешно GazMts 193 Удалено"}
+{"@t":"2023-09-27T13:49:58.3330419","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GazMts"}
+{"@t":"2023-09-27T13:49:58.3461946","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMts"}
+{"@t":"2023-09-27T14:29:22.5531352","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T15:18:41.0021454","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T16:34:43.6356241","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T16:37:41.7676935","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-27T16:55:20.5641311","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T09:42:23.2327190","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T09:45:12.8746316","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:19:23.9634394","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:21:44.2385551","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:25:31.1499330","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:29:23.4019697","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:32:05.8259431","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T10:35:03.1217710","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:04:11.2578903","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:05:45.0867629","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:06:51.9323477","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T11:14:00.0592657","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:14:34.8396548","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:16:17.2618991","@mt":"Method_ProcessesAndSettings_delete выполнен успешно GazMts 10 Удалено"}
+{"@t":"2023-09-28T11:17:01.6346580","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GazMtsVesta!"}
+{"@t":"2023-09-28T11:17:01.6614406","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GazMtsVesta!"}
+{"@t":"2023-09-28T11:17:10.3731743","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-28T11:21:37.7965494","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T11:22:02.2774115","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T11:22:09.2021785","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T11:22:30.5014454","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T11:23:58.5422471","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T11:24:21.7941037","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T12:29:35.5336180","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T12:30:05.2776665","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T12:32:16.4805204","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T12:34:59.1459773","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T12:35:16.6811341","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T12:35:49.6549786","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T12:43:00.9187919","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T12:43:07.1726011","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T12:43:22.9726398","@mt":"Method_ProcessesAndSettings_delete выполнен успешно GazMtsVesta! 193 Удалено"}
+{"@t":"2023-09-28T12:44:11.3359491","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно VestaProcess 845"}
+{"@t":"2023-09-28T12:44:11.3627929","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-09-28T12:44:21.1884846","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-09-28T12:44:26.1224598","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T14:39:42.8093316","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T14:41:55.5443858","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:02:30.7270947","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T15:04:39.7328291","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:04:44.7990863","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:26:19.8981843","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:27:55.6031577","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:27:56.4556093","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:34:08.4458759","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:37:28.2457890","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:40:50.6685939","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:42:49.0372390","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:45:57.0986589","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T15:51:36.8355844","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:51:43.8308096","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-28T15:54:14.7645332","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T15:54:29.8661147","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T15:56:58.0862483","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T16:02:01.6657504","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T16:15:41.2222106","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T16:45:53.0797601","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T16:46:15.9985504","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T16:48:28.3775255","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-28T16:52:27.7627373","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-28T16:57:37.2292533","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T08:46:20.1874868","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-29T08:49:50.1076074","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-29T08:53:57.9496666","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-29T08:54:44.5978303","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T09:01:43.9872554","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T09:03:18.4637501","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T09:15:37.2591333","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T09:17:17.9725064","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T09:23:50.1616531","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T09:27:10.6486316","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T09:57:00.6393639","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T09:57:41.8374389","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T10:36:40.8446346","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T10:38:23.5986852","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T10:40:31.2604508","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T10:50:46.5980452","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-09-29T10:50:59.5506958","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T10:51:22.4325124","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T10:55:17.1821718","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T10:56:37.3559335","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T11:41:18.3980604","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T11:43:45.1940186","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T11:45:23.3520146","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T14:52:48.8595706","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T14:54:01.0618845","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T14:59:26.7824130","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:03:15.9126026","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:03:45.1924473","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:13:17.6788115","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:15:19.1785992","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:15:47.3632757","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:23:42.0077403","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:24:11.9108665","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:26:26.0357153","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:26:53.2203341","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:33:13.3144832","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:34:23.3942908","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:35:32.6254128","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:36:31.6474998","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:38:20.3380729","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:48:28.6840520","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:49:24.9689719","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:49:50.0274127","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-09-29T15:50:38.1870202","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:51:19.7763825","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:57:36.9428451","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T15:59:21.9491125","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T16:31:06.5309342","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T16:35:55.2648874","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-09-29T16:38:44.4086096","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:32:25.1714582","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:39:22.2360820","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:40:12.4740523","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:43:11.7583014","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:44:42.7814016","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T09:48:28.1170398","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T10:03:04.2333863","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-02T10:31:59.0502615","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T10:39:12.7247856","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T10:43:14.4944330","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T10:43:55.3274888","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T10:46:15.5228045","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T10:49:21.4535748","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T10:52:12.3349000","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T11:02:00.5927571","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T11:10:11.4862649","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T11:55:26.6192089","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T11:55:46.5833063","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T11:57:58.4294804","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T12:28:53.8259749","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:30:02.1441516","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:32:42.9594637","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:42:27.6920894","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:44:09.7355243","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:48:08.4868379","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:49:34.8435544","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T12:58:32.1724680","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T13:00:31.3270732","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T13:05:11.6027275","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:09:06.3954641","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:11:13.6666087","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:20:21.4567992","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:21:10.2148479","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T13:28:05.7275994","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:35:20.5271475","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:51:10.1287186","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:51:51.3703852","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T13:52:29.3996485","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:56:08.5077930","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T13:58:09.6752750","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T14:27:57.9674888","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T14:31:14.0051477","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T14:42:25.7599905","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:13:09.0544962","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:14:25.7342047","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:14:37.6030154","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:15:24.9639084","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:16:27.0377375","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:39:19.4332102","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:39:36.0589245","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:40:23.7538619","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:42:28.7082466","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:45:36.6720054","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T15:46:12.3914410","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T15:46:45.2928446","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:49:28.3190564","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T15:49:54.1226976","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:25:17.7257790","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:28:37.4659410","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:30:22.4198075","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:45:46.6915367","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:46:01.2302487","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T16:46:40.1376136","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-02T16:46:40.5459313","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:49:12.7196122","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-02T16:52:04.7335016","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T08:50:24.7806449","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T09:29:07.9065825","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:30:41.1425497","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:32:40.1623934","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T09:35:17.2358124","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T09:43:23.3820995","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:46:24.5135732","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:47:09.6218240","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:48:11.0292403","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T09:50:50.7704755","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T09:53:18.1014573","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:54:58.1048483","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T09:59:07.7415621","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:00:50.6116121","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:20:40.9116681","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:24:58.1225463","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:26:03.6344513","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:31:48.6113414","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:31:59.7393113","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:32:03.0245044","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:33:05.2489306","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:34:02.4817556","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:34:27.3155164","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:37:51.6756528","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:38:50.9293176","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:40:30.3547883","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:41:38.7922596","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:41:54.9473021","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:44:10.7904321","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:44:54.5601886","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:49:50.6300463","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T10:51:13.0674949","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T10:51:33.4241933","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:03:38.5990190","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:04:20.6214450","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T11:15:17.1506959","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:17:10.2761424","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:21:06.3668408","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:22:42.4044261","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:22:56.6598986","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:24:35.8568520","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:26:23.7147751","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:27:01.4412717","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:27:17.2241557","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:29:27.6835172","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:35:28.1765251","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T11:52:12.6506925","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:55:06.9126809","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T11:55:55.3239101","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T11:59:03.2802848","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:17:41.1164366","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:20:55.8880021","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:22:41.2326880","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:22:49.0608296","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:23:03.5985338","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:24:12.2524012","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:26:39.1951041","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:28:12.2552181","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:29:40.0094160","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:31:30.3613195","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:31:44.3416531","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:38:48.6896517","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T12:40:15.4095763","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T12:43:24.3529915","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T12:45:12.2316751","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:45:32.6481223","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:47:48.2118745","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T12:48:01.1223037","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T12:55:34.7414761","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T12:56:01.0161747","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:06:47.4428967","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:11:31.2496632","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:14:00.2234940","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:24:24.1260097","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:28:33.0009953","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T13:38:13.9168153","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:46:07.2080738","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:46:59.5597326","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T13:51:00.6127637","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:03:56.5572859","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:05:25.3302276","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:11:26.1015978","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:21:01.1776098","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:21:30.3603315","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:22:32.6602557","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:22:52.0480939","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:23:49.6204741","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:28:41.9212528","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:28:46.7880882","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:29:38.1001750","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:29:49.6191554","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:30:14.7071144","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:30:24.8641754","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:31:04.8875504","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:31:30.4824177","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:31:50.0390774","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:32:09.9812367","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:33:13.9275155","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:33:26.4273809","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T14:38:30.9768822","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:38:38.4241253","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T14:41:28.0780800","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T15:33:37.6986748","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T15:34:00.1442670","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T15:34:20.7050842","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:00:25.3520748","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:00:55.9760794","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:01:14.7928432","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:01:52.4883549","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:01:55.0960535","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:02:21.3585869","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:02:25.9548907","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:02:35.9650378","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:02:52.1822944","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:05:16.6804006","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:05:29.9253233","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:06:55.1252445","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:07:08.4223435","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:07:15.2127977","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:07:20.3751600","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:07:30.0728541","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:07:32.1054678","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:14:17.2332232","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:14:20.4061347","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:14:32.5314816","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:18:06.8371648","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:19:09.9718213","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:21:07.1125515","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:25:53.7874143","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T16:26:00.7154107","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:26:43.5545281","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-03T16:26:57.0411472","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:41:07.5395880","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:41:51.3460242","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:43:01.4530928","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:44:20.2348466","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:49:11.5772911","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:51:12.3672603","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-03T16:52:31.5876886","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:55:43.9496490","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:56:22.4566977","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-03T16:58:05.3359540","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-04T08:53:08.2555459","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-04T08:54:15.7499987","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-04T09:32:21.7651656","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-04T10:20:02.0732747","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-04T13:26:25.5759999","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T13:29:37.2492649","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T13:31:41.3504552","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T13:34:35.4844064","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T13:35:50.4175802","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T15:59:28.7588384","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:00:21.8559447","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:02:04.0917465","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:22:47.0453082","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:23:02.5184072","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:24:10.7727399","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:24:34.5537105","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:24:48.9432097","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:29:47.9353212","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:30:08.9563044","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:31:33.1773472","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:35:28.2174916","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:38:51.9247590","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:39:14.9974881","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:40:32.7366689","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:41:56.4663705","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:44:53.9560015","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:49:25.3656608","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:51:31.7151063","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:51:55.9105646","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:53:44.9255988","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-04T16:54:40.9695047","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T08:34:12.0082524","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T08:46:35.7415582","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T09:01:56.5014359","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T09:20:39.8242776","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T09:45:52.4651300","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T09:46:08.1392029","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-05T09:46:13.0515222","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-05T09:46:13.0717011","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-05T09:49:33.9600298","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T09:50:09.0521808","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T09:51:42.7817008","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T09:54:19.1130605","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T09:55:06.8503560","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T10:59:06.8624493","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T10:59:15.7257777","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T11:00:13.0769007","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T11:00:21.6185933","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:06:04.9586875","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T11:06:22.0877274","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:09:34.0543261","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:15:59.0139662","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:17:19.4079628","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T11:17:27.5069390","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T11:17:28.5915851","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:17:28.8365753","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T11:17:57.1848248","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:30:36.7357396","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-05T11:30:49.3881865","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T11:31:24.1754453","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T11:32:45.9571561","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:32:59.6428788","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T11:33:38.1638892","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T12:54:48.3751271","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T13:40:42.7388190","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-05T13:40:42.7815615","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-05T14:10:05.6493642","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T14:10:31.1806496","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T14:14:49.4569073","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T14:15:17.9732244","@mt":"Method_JSON_ProcessesAndSettings_Post выполнен успешно GAZMTS"}
+{"@t":"2023-10-05T14:15:17.9859074","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GAZMTS"}
+{"@t":"2023-10-05T14:15:26.3244280","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-05T14:15:32.6578119","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-05T15:05:12.3399748","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T15:13:09.6693171","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-05T15:13:53.3073929","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-06T09:06:16.5641071","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T09:08:50.1281865","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T09:09:51.6802958","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T09:20:08.2779099","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T11:46:56.0428996","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T11:46:59.2916480","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T11:53:32.0272627","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T15:31:43.0108495","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T15:31:43.7023570","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T15:32:01.4094306","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T15:35:44.7462857","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-06T15:36:32.7126437","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T16:43:16.9071257","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-06T16:53:47.8114063","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-06T16:53:55.7412823","@mt":"метод Put_CheckPointsList успешно выполнен"}
+{"@t":"2023-10-06T16:54:41.5280722","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T16:54:52.4825197","@mt":"метод Put_CheckPointsList успешно выполнен"}
+{"@t":"2023-10-06T16:55:19.5545280","@mt":"метод Put_PLCList произошла ошибка"}
+{"@t":"2023-10-06T16:56:28.3838123","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T16:56:36.2441363","@mt":"метод Put_CheckPointsList успешно выполнен"}
+{"@t":"2023-10-06T16:56:42.0280407","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-06T16:56:42.0448131","@mt":"метод Put_CameraList успешно выполнен"}
+{"@t":"2023-10-06T16:57:02.6367825","@mt":"метод Put_CheckPointsList успешно выполнен"}
+{"@t":"2023-10-06T16:58:19.7659763","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-06T16:58:26.8080998","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-06T16:58:35.3913554","@mt":"метод Put_CheckPointsList успешно выполнен"}
+{"@t":"2023-10-06T16:58:38.6678804","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-06T16:58:38.6836893","@mt":"метод Put_CameraList успешно выполнен"}
+{"@t":"2023-10-11T09:06:34.7407775","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T09:06:39.5917348","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:07:13.4921599","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:07:40.9299843","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T09:09:22.4806370","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T09:10:10.6889730","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:28:16.2249668","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:42:35.4136570","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:48:42.5230758","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:50:44.4181290","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T09:50:44.9422605","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:52:31.6744964","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T09:52:32.0712576","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T09:56:50.6217390","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T11:06:30.2288867","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T11:06:47.1059642","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T11:08:42.2426018","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T11:09:16.7922127","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T11:09:33.1722602","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T11:27:08.8172791","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T11:29:21.6909739","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T11:30:33.2199190","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-11T11:30:44.4134478","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-11T11:31:27.6646395","@mt":"метод Put_PLCList произошла ошибка"}
+{"@t":"2023-10-11T11:33:23.1617292","@mt":"метод Put_PLCList произошла ошибка"}
+{"@t":"2023-10-11T11:36:03.6660723","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T12:55:09.8009283","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T12:55:35.8148412","@mt":"Method_PLCList_Post выполнен успешно КТ-0"}
+{"@t":"2023-10-11T12:55:52.4663418","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-11T14:18:16.0743783","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T14:58:59.6600137","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:03:32.8132495","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:03:55.5804873","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:09:07.9625462","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:12:07.3727068","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:12:47.8261218","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:15:33.4561496","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T15:16:27.1318715","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 5 Удалено"}
+{"@t":"2023-10-11T15:17:40.5874842","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:17:59.8655280","@mt":"метод Put_CameraList произошла ошибка"}
+{"@t":"2023-10-11T15:17:59.8655280","@mt":"метод Put_CheckPointsList произошла ошибка"}
+{"@t":"2023-10-11T15:18:00.0259151","@mt":"метод Put_PLCList успешно выполнен"}
+{"@t":"2023-10-11T15:19:03.0469016","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:23:13.4208494","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:24:23.3979375","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:28:18.5957848","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:31:19.9649443","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:32:31.9497804","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T15:32:47.7923866","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:34:11.9398622","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:34:53.8936308","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:42:40.5483469","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:43:59.3183697","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:45:19.4727509","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T15:53:11.4175526","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T15:53:29.7213298","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T16:23:37.1455535","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T16:24:21.3521685","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T16:24:39.1916241","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-11T16:25:02.9832460","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-11T16:25:07.7122089","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-11T16:26:30.1489527","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T10:18:46.5923834","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-12T10:19:07.8750274","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T10:19:31.6906759","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T10:19:50.7053491","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T10:20:08.9850249","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T10:20:36.7366373","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T10:21:40.3350762","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T10:27:32.8237298","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T10:57:29.8411503","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T11:01:36.4280214","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T12:39:47.9243194","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T12:40:54.6799632","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T12:42:52.1047864","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T12:43:01.4283103","@mt":"Method_LineSettings_Post выполнен успешно 5"}
+{"@t":"2023-10-12T12:44:15.3992755","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T12:44:44.4897133","@mt":"Method_LineSettings_Post выполнен успешно 6"}
+{"@t":"2023-10-12T12:56:43.6178816","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T12:58:32.2187269","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T13:22:23.3801359","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T13:25:48.9642834","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T13:27:11.2499235","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T13:31:02.8411565","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-12T13:31:13.3999829","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-12T13:55:34.7889042","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T13:56:24.1460968","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-12T13:58:24.8425780","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T14:00:31.9013279","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:36:29.2994582","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:38:46.5863781","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:52:54.6959884","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:53:06.8207946","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:54:04.3927457","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-12T14:54:47.4646677","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:01:29.2244744","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:11:43.4342682","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:15:15.4467085","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:16:40.9619968","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:19:48.9052911","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-12T15:20:42.5707568","@mt":"Method_LineSettings_Put выполнен успешно 5"}
+{"@t":"2023-10-12T15:21:57.6300297","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-12T15:22:27.2114230","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-12T15:22:56.5934642","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-12T15:22:56.7728185","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-12T15:23:12.7395281","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GAZMTS"}
+{"@t":"2023-10-12T15:23:12.8119006","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T08:36:13.4234198","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T08:37:44.2747987","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T08:38:36.5296864","@mt":"Method_CheckPointsList_Post выполнен успешно цйцк12"}
+{"@t":"2023-10-13T08:38:43.3474386","@mt":"Method_CheckPointsList_Post выполнен успешно цйцк12"}
+{"@t":"2023-10-13T08:39:21.0859461","@mt":"Method_CheckPointsList_Post выполнен успешно цйцк12"}
+{"@t":"2023-10-13T08:45:27.9800989","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-13T09:26:21.8598653","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T09:33:04.9072832","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-13T09:34:58.2648383","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T09:35:54.9048264","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-13T09:36:11.5095676","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 6 Удалено"}
+{"@t":"2023-10-13T09:36:20.6828109","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T09:38:07.5335435","@mt":"Method_CheckPointsList_Post выполнен успешно цйцк12"}
+{"@t":"2023-10-13T09:38:44.7147272","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T09:46:00.2645121","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 11 Удалено"}
+{"@t":"2023-10-13T09:48:10.1249895","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T09:48:27.9974103","@mt":"Method_CheckPointsList_Post выполнен успешно цйцк12"}
+{"@t":"2023-10-13T09:48:36.3636013","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 0 Удалено"}
+{"@t":"2023-10-13T09:49:08.6703384","@mt":"Ошибка выполнения метода Method_CheckPointsList_Post В Контроллере CheckPointsAn error occurred while saving the entity changes. See the inner exception for details.","@l":"Error"}
+{"@t":"2023-10-13T09:49:13.5162168","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 0 Удалено"}
+{"@t":"2023-10-13T09:53:03.7115209","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T09:53:10.6578337","@mt":"Method_CheckPointsList_delete выполнен успешно цйцк12 12 Удалено"}
+{"@t":"2023-10-13T09:53:22.2414211","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GAZMTS"}
+{"@t":"2023-10-13T10:02:26.8000871","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T10:42:03.2757867","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-13T10:43:45.7276753","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-13T10:44:04.9000911","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:44:04.9535243","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:44:11.4786034","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:44:11.5742189","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:44:19.4808822","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:44:19.5606612","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:44:23.7402529","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:44:23.8422275","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:48:03.0648943","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:48:10.0010583","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:48:32.6338399","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:48:32.7681130","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:48:37.6602672","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:48:37.7757327","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:48:42.8335368","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:48:42.9299577","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:48:46.5145345","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:48:46.5174973","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:56:23.9734455","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:56:23.9983295","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:58:10.2373006","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-13T10:58:27.1615679","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:58:27.1893876","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:58:43.2757845","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:58:43.2810027","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T10:59:01.7126645","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T10:59:01.9021277","@mt":"Ошибка выполнения метода Method_LineSettings_Put В Контроллере LineSettingsA second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.","@l":"Error"}
+{"@t":"2023-10-13T10:59:48.8209102","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-13T11:00:34.8306041","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-13T11:00:51.2734770","@mt":"Ошибка выполнения метода Method_Put_ProcessesAndSettings_WhereProcessName В Контроллере ProcessesAndSettingsAn attempt was made to use the context instance while it is being configured. A DbContext instance cannot be used inside 'OnConfiguring' since it is still being configured at this point. This can happen if a second operation is started on this context instance before a previous operation completed. Any instance members are not guaranteed to be thread safe.","@l":"Error"}
+{"@t":"2023-10-13T11:00:56.1733302","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:01:04.8903155","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:01:04.9996224","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:01:10.1373012","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:01:10.1562862","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:01:19.7785450","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:09:02.9722057","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-13T11:13:23.4580298","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-13T11:14:02.1436994","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:02.2100537","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:06.9449312","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:06.9470732","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:14.9827899","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:14.9874734","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:18.3110195","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:18.3120890","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:21.8773990","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:21.8851440","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:32.4336039","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:32.4344159","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:35.5631706","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:35.5631952","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:42.9020673","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:14:42.9028819","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:14:52.7388431","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GAZMTS"}
+{"@t":"2023-10-13T11:14:52.7408255","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:15:07.9411228","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:15:07.9423181","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:16:35.7409703","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно GAZMTS"}
+{"@t":"2023-10-13T11:16:35.7472329","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:16:45.1316143","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:16:48.7601313","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:17:49.9486192","@mt":"Method_Put_ProcessesAndSettings_WhereProcessName выполнен успешно VestaProcess 845"}
+{"@t":"2023-10-13T11:17:49.9632621","@mt":"Method_LineSettings_Put выполнен успешно 2"}
+{"@t":"2023-10-13T11:19:40.2019448","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T11:32:29.2738896","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T11:45:35.6293941","@mt":"Ошибка выполнения метода Method_CheckPointDataPackages_IncludeCheckPointData "}
+{"@t":"2023-10-13T11:47:53.0352023","@mt":"Ошибка выполнения метода Method_CheckPointDataSerials_IncludeCheckPointDataPackages "}
+{"@t":"2023-10-16T09:39:01.8574550","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-16T09:43:27.4297899","@mt":"Post_PackageSettingуспешно fde"}
+{"@t":"2023-10-16T09:52:07.2901801","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-16T10:21:09.7774273","@mt":"Post_PackageSettingуспешно fde"}
+{"@t":"2023-10-16T10:22:12.5552628","@mt":"Post_PackageSettingуспешно fde"}
+{"@t":"2023-10-16T15:22:25.8629697","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-17T13:18:13.1658441","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-17T15:19:32.0302896","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-17T15:31:29.8536589","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-17T16:50:25.6715607","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T10:30:55.0665375","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T11:17:34.5138463","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T11:22:00.2499313","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T13:52:20.4257445","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T14:00:25.3886791","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T14:40:19.7741345","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-18T14:45:05.5581261","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-20T08:44:49.9679793","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-20T08:59:36.4267173","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-20T10:20:57.4569022","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-23T08:42:56.4847580","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-23T09:25:27.1538295","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-23T09:52:01.6069257","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-23T14:03:05.9445386","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-24T09:40:48.3277193","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-24T09:46:55.0473481","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-24T09:53:39.9256551","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-24T09:55:57.6069719","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-24T10:39:19.8812690","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T15:02:09.6843382","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T15:09:46.1422686","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T15:11:09.7042340","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:16:55.4677996","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:19:07.1387812","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:22:07.8444610","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:25:27.6420872","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:26:21.1062743","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-25T16:27:54.3548644","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-26T15:40:52.1668256","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:04:49.8875924","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:10:42.4102164","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:27:54.9376087","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:39:14.7106739","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:42:25.0378670","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:48:37.4902964","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T09:50:01.0563426","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T10:29:26.3596172","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T10:35:29.3337494","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T10:37:44.4092701","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:02:09.8262378","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:11:54.6587387","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:13:17.4752130","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:18:12.9667125","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:18:51.6180379","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:20:16.4456543","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T13:22:01.1436562","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T14:26:44.6219265","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T14:32:04.3151171","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T15:33:59.5382314","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-27T16:16:23.7816397","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:33:26.0311301","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:38:37.0766134","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:48:26.0218572","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:52:50.6005203","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:53:59.7559193","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T08:55:58.1255521","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T09:11:55.1780423","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T09:13:13.9518138","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T09:17:25.0518064","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T09:22:37.7847031","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T09:57:43.0512697","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:32:28.9847593","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:37:21.2248629","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:41:53.3823075","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:42:53.3418322","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:46:13.3328710","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:54:57.8549248","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T10:55:47.4216872","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:01:10.2250668","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:47:19.3363871","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:48:17.8415014","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:50:33.6686036","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:51:00.9006252","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T11:54:39.3130169","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T13:06:54.0020975","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-30T13:09:00.6575209","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-10-31T09:40:48.9365438","@mt":"API Работает http://localhost:5139/swagger/index.html"}
+{"@t":"2023-11-01T12:21:57.3391942","@mt":"API Работает http://localhost:5139/swagger/index.html"}

@@ -1,0 +1,205 @@
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\appsettings.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.exe
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.deps.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.runtimeconfig.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.pdb
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.AssemblyReference.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.AssemblyInfoInputs.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.AssemblyInfo.cs
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.CoreCompileInputs.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\scopedcss\bundle\ApiItelma_Universal.styles.css
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.CopyComplete
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\refint\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.pdb
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.genruntimeconfig.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ref\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\efpt.config.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Serilog.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\appsettings.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\efpt.config.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.exe
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.deps.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.runtimeconfig.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\ApiItelma_Universal.pdb
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Serilog.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.AssemblyReference.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.AssemblyInfoInputs.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.AssemblyInfo.cs
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.CoreCompileInputs.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\scopedcss\bundle\ApiItelma_Universal.styles.css
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.csproj.CopyComplete
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\refint\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.pdb
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.genruntimeconfig.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\obj\Debug\net6.0\ref\ApiItelma_Universal.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\libman.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\EasyModbus.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\FluentModbus.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal — копия\ApiItelma_Universal\bin\Debug\net6.0\EEIP.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\libman.json
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\EasyModbus.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\EEIP.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\FluentModbus.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.RazorAssemblyInfo.cache
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\ApiItelma_Universal.RazorAssemblyInfo.cs
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets\msbuild.ApiItelma_Universal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiItelma_Universal.props
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiItelma_Universal.props
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiItelma_Universal.props
+C:\Users\shermatov\source\repos\ApiItelma_Universal\ApiItelma_Universal\obj\Debug\net6.0\staticwebassets.pack.json

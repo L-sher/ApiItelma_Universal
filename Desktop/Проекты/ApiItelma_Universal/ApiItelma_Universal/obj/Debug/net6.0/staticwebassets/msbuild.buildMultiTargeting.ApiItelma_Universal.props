@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiItelma_Universal.props" />
+</Project>
